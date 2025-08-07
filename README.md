@@ -3,7 +3,7 @@
 This Power BI project presents an in-depth analysis of Myntra's product sales from 2021 to 2023. The goal is to derive key business insights by exploring customer behavior, sales trends, brand performance, and discount strategies using visual analytics.
 
 > 📂 **Note**: The dashboard was built using a single file as the data source, containing raw sales, customer, and product-level data.
-"C:\Users\Progati Podder\Downloads\Myntra_2021-2023.xlsx"
+
 
 ## 📌 Project Highlights
 
